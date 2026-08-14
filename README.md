@@ -54,6 +54,7 @@ pip install -r requirements.txt
 Create a .env file and add:
 
 GEMINI_API_KEY=your_key
+
 TAVILY_API_KEY=your_key
 
 Run:
